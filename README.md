@@ -4,11 +4,11 @@ In need of a new read? This simple and effective application can help you search
 
 ## Description
 
-
+An application for searching for books that are similiar to other books that you may have read before.
 
 ## Usage
 
-N/A
+Upon opening the application, as the user, you can run the server using 'npm run develop' and open the application to be able to search for any book you'd like to see.
 
 ## Credit
 

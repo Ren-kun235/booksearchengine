@@ -14,12 +14,12 @@ const typeDefs = gql`
     _id: ID!
     username: String!
     email: String!
-    bookCount: Number
+    bookCount: Int
     savedBooks: [Book]
   }
 
   type Query {
-    me: user
+    me: User
   }
 
   type Auth {
